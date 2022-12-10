@@ -1,0 +1,6 @@
+{
+    "name": "@workspace/main",
+    "dependencies": {
+        "@workspace/lib": "workspace:^"
+    }
+}

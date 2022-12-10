@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "composite": true,
+        "lib": ["ES5"],
+        "outDir": "./dist/",
+        "rootDir": "./src/"
+    },
+    "files": ["./src/index.ts"]
+}
